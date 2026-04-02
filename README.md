@@ -1,6 +1,6 @@
 # Project Title
 
->       A memory-based puzzle game where players take on the role of a zookeeper tasked with recovering escaped animals. 
+A memory-based puzzle game where players take on the role of a zookeeper tasked with recovering escaped animals. 
 ![hippo](/KeepMyZooDemo.gif)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
