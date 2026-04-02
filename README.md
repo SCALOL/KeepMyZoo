@@ -61,4 +61,4 @@ Commenting accepted
 
 ## License
 
-[MIT](LICENSE) © Your Name
+[MIT](LICENSE) © Pattapol Sitthiwang
