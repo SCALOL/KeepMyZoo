@@ -52,6 +52,7 @@ This project utilizes components from the [Unity Accessibility Public Sample](ht
 
 ## Demo
 https://z4ku5.itch.io/keepmyzoo
+[**Gameplay Video**](https://youtu.be/IanO_bOEYv8)
 
 ## Contributing
 
