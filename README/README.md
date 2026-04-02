@@ -35,7 +35,10 @@ Goal : Get highest level player can achieved.
 - Step 3 : After accurately rearrangeing, Player can go to next level
 
 ---
+## Built With
+Unity 6000.3.4f1, Unity Built-in Accessibility API
 
+This project utilizes components from the [Unity Accessibility Public Sample](https://github.com/Unity-Technologies/a11y-public-sample)  by Unity Technologies.
 ## Key Learning
 
 - **Inclusive Engineering:** Mastered Universal Design to create a unified experience for all users, rather than developing segregated platforms for the visually impaired.
