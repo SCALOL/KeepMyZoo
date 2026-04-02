@@ -1,0 +1,41 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: UI Game.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: pixels
+Artboard Dimensions: 841.8898 px x 595.2756 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Ravie (OTF)
+Snap ITC (OTF)
+FC Luxurious [Non-commercial] Regular (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
